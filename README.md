@@ -13,4 +13,4 @@ DevOps и системное администрирование (для прое
 
 - Ignore CLI configuration files: .terraformrc, terraform.rc
 
-new line 
+fix line 
