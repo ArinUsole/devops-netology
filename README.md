@@ -12,3 +12,5 @@ DevOps и системное администрирование (для прое
 - Ignore override files: override.tf, override.tf.json, \*_override.tf, \*_override.tf.json
 
 - Ignore CLI configuration files: .terraformrc, terraform.rc
+
+master line 
